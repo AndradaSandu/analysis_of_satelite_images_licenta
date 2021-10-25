@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/analysis_of_satellite_images" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
